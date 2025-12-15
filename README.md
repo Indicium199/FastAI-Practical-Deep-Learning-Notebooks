@@ -8,7 +8,7 @@ This notebook recreates the Kaggle "Is it a bird?" example using a local dataset
 It demonstrates how to build a simple image classification model using FastAI, including data handling, model creation, training, and prediction.
 
 You must manually add your images to 'bird' and 'forest' folders before running the notebook. Images can be any JPG files of birds or forest scenes.
----
+
 
 
 
