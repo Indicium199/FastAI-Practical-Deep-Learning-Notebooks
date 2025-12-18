@@ -9,6 +9,11 @@ It demonstrates how to build a simple image classification model using FastAI, i
 
 You must manually add your images to 'bird' and 'forest' folders before running the notebook. Images can be any JPG files of birds or forest scenes.
 
+## Notebook 02: Leaf Classifier?
+
+This notebook builds on FastAI's lession 2 to create a leaf image classifier.  
+The dataset used can be found here:  https://prod-dcd-datasets-cache-zipfiles.s3.eu-west-1.amazonaws.com/bgmftbm8zt-1.zip
+
 
 
 
