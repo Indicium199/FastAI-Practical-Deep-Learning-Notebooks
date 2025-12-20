@@ -1,3 +1,15 @@
+# Datasets
+data/
+
+# Local environments / experiments
+anaconda_projects/
+
+# Jupyter notebook checkpoints
 .ipynb_checkpoints/
+
+# Python cache
 __pycache__/
+*.pyc
+
+# OS files
 .DS_Store
